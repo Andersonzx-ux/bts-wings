@@ -6,9 +6,9 @@ window.album = {
     genre: "K-pop",
     labels: ["Big Hit Entertainment"],
     cover: "assets/cover.jpg",
-    description: "Segundo álbum de estúdio do BTS, um disco conceitual sobre tentação e crescimento, inspirado no romance <em>Demian</em>, de Hermann Hesse. Traz sete faixas solo, uma para cada integrante.",
+    description: "Segundo álbum de estúdio do BTS, um disco conceitual sobre tentação e crescimento, inspirado no romance <em>Demian</em>, de Hermann Hesse. Traz sete faixas solo, uma para cada integrante. Feito especialmente para você meu amor, Eu te amo gatinha! Amo você demais meu amorr!",
     // Deixe vazio para o player mostrar só "15 faixas" (ou preencha, ex.: "53:34").
-    totalDuration: "",
+    totalDuration: "53:41",
     awards: [],
     technicalCredits: {},
 
